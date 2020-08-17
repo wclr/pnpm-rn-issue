@@ -1,0 +1,7 @@
+{
+  "name": "package-rn",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-native": "0.62.2"
+  }
+}
