@@ -27,4 +27,5 @@ Two versions/folders for react-native is created:
 
 
 > node_modules/.pnpm/react-native@0.62.2_686ec919160581136b28b7fe63160a42
+
 > node_modules/.pnpm/react-native@0.62.2_react-native@0.62.2
